@@ -11,7 +11,7 @@ icone:
     * [Pré-Requisitos](#pré-requistos)
     * [Funcionamento](#funcionamento)
 * [informações finais](#informações-extras-do-projeto)
-    * [Status do Projeto](#Status)
+    * [Status do Projeto](#status-do-projeto)
     * [Tecnologias usadas](#🛠-tecnologias)
     * [Autor do projeto](#autor-do-projeto-e-contato)
 
