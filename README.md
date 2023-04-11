@@ -28,9 +28,9 @@ Esse Script é feito para contar as calórias que são gasta e consumidas durant
 
 ### Funcionamento:
 
-1. Na primeira execução, será obrigatório você passar os dados da sua conexão MYSQL (Localhost, User e Password) e dados pessoas (sexo, idade e peso), para ter acesso ao menu principal.
+1. Na primeira execução, será obrigatório passar os dados da sua conexão MYSQL (Localhost, User e Password) e dados pessoais (sexo, idade e peso), para ter acesso ao menu principal.
 
-2. depois de dar as informações necessárias para dar continuidade a execução, o menu será exibido.
+2. depois de cadastrar as informações necessárias para dar continuidade à execução, o menu será exibido.
 
     <img src = "imagens/menu.png"> <br>
         Você vai escolher as opções do menu digitando o numero da opção desejada.
